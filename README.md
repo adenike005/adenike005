@@ -11,4 +11,4 @@ adenike005 ].
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about the world of code.
 
 
-![WhatsApp](https://github.com/adenike005/adenike005/assets/126898580/1b27ad48-9ac5-4c5d-8f60-7f461e73e09a | width=100)
+![WhatsApp](https://github.com/adenike005/adenike005/assets/126898580/1b27ad48-9ac5-4c5d-8f60-7f461e73e09a|width=100)
