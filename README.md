@@ -14,4 +14,5 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 ![WhatsApp](https://github.com/adenike005/adenike005/assets/126898580/1b27ad48-9ac5-4c5d-8f60-7f461e73e09a|width=100)
 
 
-![App ](https://github.com/adenike005/adenike005/assets/126898580/7673054f-3882-4975-b6b6-f7c30dc44bb4)
+<img src="https://github.com/adenike005/adenike005/assets/126898580/1b27ad48-9ac5-4c5d-8f60-7f461e73e09a" width="100" alt="WhatsApp">
+
