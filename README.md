@@ -12,7 +12,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 [![adenike005 GitHub stats](https://github-readme-stats.vercel.app/api?username=adenike005)](https://github.com/anuraghazra/github-readme-stats)
 
-[![js React-native](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![React-native](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
