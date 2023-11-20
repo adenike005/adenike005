@@ -10,7 +10,8 @@
 adenike005 ].
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about the world of code.
 
-!adenike005(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+[![adenike005 GitHub stats](https://github-readme-stats.vercel.app/api?username=adenike005)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
